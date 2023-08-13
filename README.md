@@ -1,4 +1,4 @@
-# covid_tracker
+ covid_tracker
 
 A new Flutter project.
 
